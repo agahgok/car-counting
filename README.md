@@ -9,5 +9,8 @@ OpenCV kütüphanesi ve Python kodlama dili ile geliştirilen Car Counting “Ar
 
 
 
-https://user-images.githubusercontent.com/91431291/209847733-3b19a67c-4284-4ede-88d8-f3e63b9987b6.mp4
+
+
+
+https://user-images.githubusercontent.com/91431291/209848033-206221f2-19f5-4857-a032-950f744fb43f.mp4
 
